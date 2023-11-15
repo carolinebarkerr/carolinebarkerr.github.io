@@ -1,0 +1,164 @@
+body {background-color: rgb(221, 206, 243);
+
+}
+h3{color:darkblue;
+    text-indent: 1175px;
+}
+
+
+
+
+h1{color:darkblue;
+font-size: 35;
+text-indent: 40px;
+border-style: dotted;}
+
+
+p{font-family:Georgia, 'Times New Roman', Times, serif;
+font: size 16px;
+font-weight:bold;}
+
+p{text-indent: 20px;
+
+}
+
+#toptext{position:absolute;top: 200px;left:710px; color:darkblue;
+background-color:rgb(176, 114, 234);
+padding: 20px;
+border-style: solid;
+border-color:darkblue;
+border-width: 10px;
+border-radius: 10px;
+
+}
+#secondtext{position:absolute;top: 400px;left:710px; color:darkblue;
+    background-color:rgb(176, 114, 234);
+    padding: 20px;
+    border-style:solid;
+    border-color:darkblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+
+}
+#thirdtext{position:absolute;top: 600px;left:728px; color:darkblue;
+    background-color:rgb(176, 114, 234);
+    padding: 20px;
+    border-style:solid;
+    border-color:darkblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+
+}
+
+#fourthtext{position:absolute;top: 800px;left:740px; color:darkblue;
+    background-color:rgb(176, 114, 234);
+    padding: 20px;
+    border-style:solid;
+    border-color:darkblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+}
+
+#fifthtext{position:absolute;top: 1000px;left:740px; color:darkblue;
+    background-color:rgb(176, 114, 234);
+    padding: 20px;
+    border-style:solid;
+    border-color:darkblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+}
+#sixthtext {position:absolute;top: 1200px;left:750px; color:darkblue;
+    background-color:rgb(176, 114, 234);
+    padding: 20px;
+    border-style:solid;
+    border-color:darkblue;
+    border-width: 10px;
+    border-radius: 10px;
+
+}
+
+
+img{
+    max-width: 350px;
+    max-height: 350px;
+    }
+
+
+hr {
+    margin-top: 1450px;
+    border: none;
+    height: 2px;
+    background-color: darkblue;
+
+}
+
+  #florenceimg {
+    size: 5px;
+    position:absolute;top: 125px;left:100px; 
+    border: 6px solid #ddd;
+    border-style:dotted;
+    border-color: darkblue;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+   
+  }
+
+
+  #restaurantimg {position:absolute;top: 390px;left:190px; 
+    border: 6px solid #ddd;
+    border-style:dotted;
+    border-color: darkblue;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;
+
+}
+
+#siteseeing {position:absolute;top: 595px;left:290px; 
+    border: 6px solid #ddd;
+    border-style:dotted;
+    border-color: darkblue;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;}
+
+    #hotelsimg {position:absolute;top: 750px;left:190px; 
+        border: 6px solid #ddd;
+        border-style:dotted;
+        border-color: darkblue;
+        border-radius: 4px;
+        padding: 5px;
+        width: 350px;}
+
+#tipsimg {position:absolute;top: 1008px;left:100px; 
+    border: 6px solid #ddd;
+    border-style:dotted;
+    border-color: darkblue;
+    border-radius: 4px;
+    padding: 5px;
+    width: 350px;}
+
+#florenceskyline {position:absolute;top: 1350px;left:500px; 
+    max-width: 700px;
+    max-height: 5000px;
+     }
+
+    #sidebar{position:absolute;top: 270px;left:1050px; color:darkblue;
+        padding: 10px;
+        border-style: solid;
+        border-color:rgb(176, 114, 234);
+        border-width: 15px;
+        border-radius: 10px;
+        text-align:left;
+        text-wrap:wrap;
+        color: darkblue;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 13px;
+        text-align: center;
+
+        }
